@@ -9,3 +9,4 @@
 2. **Design and explain interactions between main components in your architecture of mysimbdp.**
    
 The figure of main components and interactions is as follow:
+<img width="829" alt="绘图1" src="https://user-images.githubusercontent.com/91376924/154082925-cdedcd44-17f7-41a5-ac38-b60c1f08634e.png">
